@@ -6,7 +6,7 @@ print(toytree.__version__)
 print(toyplot.__version__)
 print(np.__version__)
 
-def phylogen_tree_vizualizer(file):
+def phylogen_tree_visualizer(file):
 
     tree = toytree.tree(file)
 
